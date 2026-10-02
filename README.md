@@ -130,3 +130,8 @@ Through this analysis, I worked with Python for data analysis and gained hands-o
 - Date handling
 - Basic visualization
 - Generating insights from data
+
+## Notebook Link
+
+The complete analysis and Python code can be found in:
+[Click here](http://localhost:8888/lab/tree/hotels_analysis.ipynb)
